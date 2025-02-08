@@ -6,6 +6,7 @@ Tech Stack:
 🚀 Frontend: React.js, Tailwind CSS for a sleek UI
 ⚡ Backend: Node.js, Express.js for fast and secure handling
    Api: http://localhost:5000/blogs
+   live preview: https://blog-nest-blog-application-g6pu.vercel.app/
  
 
 BlogNest empowers both beginners and experienced bloggers by providing an all-in-one platform for content creation, audience engagement, and growth. Start your blogging journey today! 🚀✨
